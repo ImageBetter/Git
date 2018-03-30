@@ -1,6 +1,26 @@
 # Git in Docker
 
-> Git in Docker
+## Usage
+
+> [Docker](https://www.docker.com) service is required.
+
+### Install
+
+```bash
+$ curl --location https://raw.githubusercontent.com/SameDocker/Git/master/install.sh | bash
+```
+
+Now you can use Git anywhere.
+
+```bash
+$ git init
+```
+
+### Uninstall
+
+```bash
+$ curl --location https://raw.githubusercontent.com/SameDocker/Git/master/uninstall.sh | bash
+```
 
 ## Contributor
 
