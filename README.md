@@ -7,7 +7,7 @@
 ### Install
 
 ```bash
-$ curl --location https://raw.githubusercontent.com/SameDocker/Git/master/install.sh | bash
+$ curl -sSL https://raw.githubusercontent.com/SameDocker/Git/master/install.sh | bash
 ```
 
 Now you can use Git anywhere.
@@ -19,7 +19,7 @@ $ git init
 ### Uninstall
 
 ```bash
-$ curl --location https://raw.githubusercontent.com/SameDocker/Git/master/uninstall.sh | bash
+$ curl -sSL https://raw.githubusercontent.com/SameDocker/Git/master/uninstall.sh | bash
 ```
 
 ## Contributor
