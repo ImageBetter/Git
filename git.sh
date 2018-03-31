@@ -9,5 +9,6 @@ docker run \
 --tty \
 --name $container_name \
 --volume "$PWD":/git \
+--volume "$HOME":/root \
 $docker_name \
 "$@"
