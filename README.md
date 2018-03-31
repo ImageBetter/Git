@@ -22,6 +22,12 @@ $ git init
 $ curl -sSL https://raw.githubusercontent.com/SameDocker/Git/master/uninstall.sh | bash
 ```
 
+### Update
+
+```bash
+$ curl -sSL https://raw.githubusercontent.com/SameDocker/Git/master/update.sh | bash
+```
+
 ## Contributor
 
 - [Candison November](http://www.kandisheng.com) - Founder
