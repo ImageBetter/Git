@@ -37,4 +37,5 @@ $ curl -sSL https://raw.githubusercontent.com/SameDocker/Git/master/update.sh | 
 - [Homepage](http://www.SameDocker.com)
 - [Feedback](https://github.com/SameDocker/Git/issues)
 - [GitHub](https://github.com/SameDocker/Git)
-- [DockerHub](https://hub.docker.com/r/samedocker/git/)
+- [Docker Hub](https://hub.docker.com/r/samedocker/git/)
+- [Docker Store](https://store.docker.com/community/images/samedocker/git)
