@@ -7,4 +7,4 @@ WORKDIR    /git
 VOLUME /git
 VOLUME /root
 
-RUN apk --update add git
+RUN apk add --no-cache git
