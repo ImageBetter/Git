@@ -1,9 +1,9 @@
 # Git in Docker
 
-![Docker Stars](https://img.shields.io/docker/stars/samedocker/git.svg)
-![Docker Pulls](https://img.shields.io/docker/pulls/samedocker/git.svg)
-![Docker Automated Build](https://img.shields.io/docker/automated/samedocker/git.svg)
-![Docker Build Status](https://img.shields.io/docker/build/samedocker/git.svg)
+[![Docker Stars](https://img.shields.io/docker/stars/samedocker/git.svg)](https://hub.docker.com/r/samedocker/git/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/samedocker/git.svg)](https://hub.docker.com/r/samedocker/git/)
+[![Docker Automated Build](https://img.shields.io/docker/automated/samedocker/git.svg)](https://hub.docker.com/r/samedocker/git/)
+[![Docker Build Status](https://img.shields.io/docker/build/samedocker/git.svg)](https://hub.docker.com/r/samedocker/git/)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-On-blue.svg)](https://hub.docker.com/r/samedocker/git/)
 [![Docker Store](https://img.shields.io/badge/Docker%20Store-On-blue.svg)](https://store.docker.com/community/images/samedocker/git)
 
