@@ -15,7 +15,7 @@
 
 > [Docker](https://www.docker.com) service is required.
 
-[Book for Docker](http://Docker.BookStorm.cn)
+Maybe you need [`Book for Docker`](http://Docker.BookStorm.cn).
 
 ### Install
 
