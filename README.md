@@ -1,6 +1,6 @@
 # Git in Docker
 
-[![License](https://poser.pugx.org/CodeMommy/WebPHP/license)](LICENSE)
+[![License](https://img.shields.io/github/license/SameDocker/Git.svg)](LICENSE)
 [![Docker Stars](https://img.shields.io/docker/stars/samedocker/git.svg)](https://hub.docker.com/r/samedocker/git/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/samedocker/git.svg)](https://hub.docker.com/r/samedocker/git/)
 [![Docker Automated Build](https://img.shields.io/docker/automated/samedocker/git.svg)](https://hub.docker.com/r/samedocker/git/)
