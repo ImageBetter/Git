@@ -7,9 +7,10 @@
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-On-blue.svg)](https://hub.docker.com/r/samedocker/git/)
 [![Docker Store](https://img.shields.io/badge/Docker%20Store-On-blue.svg)](https://store.docker.com/community/images/samedocker/git)
 
+[![Dockerfile](https://img.shields.io/badge/Dockerfile-Go-orange.svg)](Dockerfile)
+[![GitHub](https://img.shields.io/badge/GitHub-Go-orange.svg)](https://github.com/SameDocker/Git)
 [![Homepage](https://img.shields.io/badge/Homepage-Go-orange.svg)](http://Git.SameDocker.com)
 [![Feedback](https://img.shields.io/badge/Feedback-Go-orange.svg)](https://github.com/SameDocker/Git/issues)
-[![GitHub](https://img.shields.io/badge/GitHub-Go-orange.svg)](https://github.com/SameDocker/Git)
 
 ## Usage
 
