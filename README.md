@@ -44,15 +44,15 @@ $ curl -sSL https://raw.githubusercontent.com/SameDocker/Git/master/update.sh | 
 ### Advanced Usage
 
 ```bash
-docker run \
---rm \
---interactive \
---tty \
---name samedocker-git \
---volume "$PWD":/git \
---volume "$HOME":/root \
-samedocker/git \
-init
+$ docker run \
+  --rm \
+  --interactive \
+  --tty \
+  --name samedocker-git \
+  --volume "$PWD":/git \
+  --volume "$HOME":/root \
+  samedocker/git \
+  init
 ```
 
 See [`git.sh`](git.sh) to get more information.
