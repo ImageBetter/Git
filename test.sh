@@ -11,7 +11,8 @@ docker run \
 --interactive \
 --tty \
 --name $container_name \
---volume "$PWD":/git \
+--volume "$PWD/git":/git \
+--volume "$PWD/home":/root \
 $docker_name \
 "$@"
 
