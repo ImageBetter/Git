@@ -8,7 +8,7 @@ docker run \
 --interactive \
 --tty \
 --name $container_name \
---volume "$PWD":/git \
+--volume "$PWD":/working_directory \
 --volume "$HOME":/root \
 $docker_name \
 "$@"

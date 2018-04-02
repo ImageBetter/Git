@@ -58,7 +58,7 @@ $ docker run \
   --interactive \
   --tty \
   --name samedocker-git \
-  --volume "$PWD":/git \
+  --volume "$PWD":/working_directory \
   --volume "$HOME":/root \
   samedocker/git \
   init
