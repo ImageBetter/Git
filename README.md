@@ -32,16 +32,22 @@ Now you can use Git anywhere.
 $ git init
 ```
 
+### Update
+
+```bash
+$ curl -sSL https://raw.githubusercontent.com/SameDocker/Git/master/update.sh | bash
+```
+
 ### Uninstall
 
 ```bash
 $ curl -sSL https://raw.githubusercontent.com/SameDocker/Git/master/uninstall.sh | bash
 ```
 
-### Update
+### Purge
 
 ```bash
-$ curl -sSL https://raw.githubusercontent.com/SameDocker/Git/master/update.sh | bash
+$ curl -sSL https://raw.githubusercontent.com/SameDocker/Git/master/purge.sh | bash
 ```
 
 ### Advanced Usage
