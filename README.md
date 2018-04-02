@@ -1,4 +1,6 @@
-# Git in Docker
+# Git
+
+> Git in Docker
 
 [![License](https://img.shields.io/github/license/SameDocker/Git.svg)](LICENSE)
 [![Docker Stars](https://img.shields.io/docker/stars/samedocker/git.svg)](https://hub.docker.com/r/samedocker/git/)
@@ -16,7 +18,7 @@
 
 ## Usage
 
-> [Docker](https://www.docker.com) service is required.
+[Docker](https://www.docker.com) service is required.
 
 Maybe you need [`Book for Docker`](http://Docker.BookStorm.cn).
 
