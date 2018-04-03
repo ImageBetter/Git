@@ -8,8 +8,8 @@ docker build --tag $docker_name .
 
 docker run \
 --rm \
---interactive \
 --tty \
+--interactive \
 --name $container_name \
 --volume "$PWD/test_working_directory":/working_directory \
 --volume "$PWD/test_home":/root \

@@ -5,8 +5,8 @@ docker_name=samedocker/git
 
 docker run \
 --rm \
---interactive \
 --tty \
+--interactive \
 --name $container_name \
 --volume "$PWD":/working_directory \
 --volume "$HOME":/root \

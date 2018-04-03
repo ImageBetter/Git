@@ -57,8 +57,8 @@ $ curl -sSL https://raw.githubusercontent.com/SameDocker/Git/master/purge.sh | b
 ```bash
 $ docker run \
   --rm \
-  --interactive \
   --tty \
+  --interactive \
   --name samedocker-git \
   --volume "$PWD":/working_directory \
   --volume "$HOME":/root \
